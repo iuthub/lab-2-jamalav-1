@@ -1,0 +1,45 @@
+.GG15 
+{
+color: red;
+
+}
+.TOP3
+{
+
+color: purple;
+
+}
+
+#det
+{
+color: green;
+
+}
+body
+{
+background-color: gray;
+
+}
+
+p:first-letter
+{
+	font-family: Arial;
+color : pink;
+font-size:  1.5em;
+}
+a:link
+{
+
+text-decoration: none;
+}
+p
+{
+	color: yellow;
+}
+
+h1
+{
+	font-family: Verdana;
+	color: blue;
+}
+
